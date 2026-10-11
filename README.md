@@ -1,4 +1,4 @@
-# rirc.vxp
+# Rirc.vxp
 
 A small, keypad-driven **IRC client for MRE (`.vxp`) phones** such as the Nokia 225 (Series 30+),
 inspired by the terminal IRC client [rirc](https://github.com/rcr/rirc).
