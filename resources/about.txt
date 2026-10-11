@@ -1,0 +1,2 @@
+rirc.vxp - plain IRC (TCP port 6667) client for MRE phones.
+Based on rirc by Richard Robbins (MIT).
