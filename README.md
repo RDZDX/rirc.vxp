@@ -3,6 +3,15 @@
 A small, keypad-driven **IRC client for MRE (`.vxp`) phones** such as the Nokia 225 (Series 30+),
 inspired by the terminal IRC client [rirc](https://github.com/rcr/rirc).
 
+## File
+- [rirc.vxp](https://rdzdx.github.io/rirc.vxp/rirc.vxp) 
+
+## Nokia Phone Signing
+
+For use on Nokia mobile phones, the application must be signed using the IMSI code of your SIM card.
+
+More information: https://vxpatch.luxferre.top
+
 ## Scope
 
 - Plain **IRC over TCP, port 6667 only**. The port is a compile-time constant
